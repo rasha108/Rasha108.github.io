@@ -71,11 +71,11 @@ helloRender.then(() => {
         aboutRender.then(() => {
 
             const linksMapping = [
-                ["static/tg.png", "tg://resolve?domain=gabolaev"],
-                ["static/ln.png", "https://www.linkedin.com/in/gabolaev"],
-                ["static/cv.png", "https://visualcv.com/gabolaev"],
+               // ["static/tg.png", "tg://resolve?domain=gabolaev"],
+               // ["static/ln.png", "https://www.linkedin.com/in/gabolaev"],
+               // ["static/cv.png", "https://visualcv.com/gabolaev"],
                 ["static/gh.png", "https://github.com/rasha108"],
-                ["static/ig.png", "https://www.instagram.com/gabolaev"],
+                ["static/ig.png", "https://instagram.com/rasha108bick"],
                // ["static/tw.png", "https://twitter.com/georgegabolaev"],
                 ["static/vk.png", "https://vk.com/id252820782"],
             ];
