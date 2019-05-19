@@ -27,7 +27,7 @@ document.body.appendChild(hello);
 
 let helloRender = new Promise((resolve, _) => {
     renderTypeWriterText(
-        text = "i am rashid!",
+        text = "i am Rashka!",
         selector = ".hello",
         speed = TYPING_SPEED,
         resolve,
@@ -100,7 +100,7 @@ helloRender.then(() => {
             linksRender.then(() => {
                 const writeMe = document.createElement("a");
                 writeMe.className = "write-me";
-                writeMe.href = "mailto:gabolaev98@gmail.com";
+                writeMe.href = "rashid1995bik@gmail.com";
                 document.body.appendChild(writeMe);
 
                 setTimeout(
