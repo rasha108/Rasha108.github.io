@@ -76,7 +76,7 @@ helloRender.then(() => {
                 ["static/cv.png", "https://visualcv.com/gabolaev"],
                 ["static/gh.png", "https://github.com/rasha108"],
                 ["static/ig.png", "https://www.instagram.com/gabolaev"],
-                ["static/tw.png", "https://twitter.com/georgegabolaev"],
+               // ["static/tw.png", "https://twitter.com/georgegabolaev"],
                 ["static/vk.png", "https://vk.com/id252820782"],
             ];
 
