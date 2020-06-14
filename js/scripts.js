@@ -27,7 +27,7 @@ document.body.appendChild(hello);
 
 let helloRender = new Promise((resolve, _) => {
     renderTypeWriterText(
-        text = "i am Rashka!",
+        text = "Hi all, i'm Rashka",
         selector = ".hello",
         speed = TYPING_SPEED,
         resolve,
