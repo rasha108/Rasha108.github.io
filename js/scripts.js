@@ -44,7 +44,7 @@ helloRender.then(() => {
         setTimeout(
             renderTypeWriterText,
             speed = 500,
-            text = "the developer",
+            text = "the C/Golang developer Domclick",
             selector = ".developer",
             speed = TYPING_SPEED,
             resolve,
@@ -71,12 +71,17 @@ helloRender.then(() => {
         aboutRender.then(() => {
 
             const linksMapping = [
-                ["static/opengl.png", "https://vk.com/id252820782"],
+                ["static/opengl.png", ""],
                 ["static/tg.png", "https://t.me/rasha108bick"],
+                ["static/opengl.png", ""],
                 ["static/ln.png", "www.linkedin.com/in/rasha108"],
+                ["static/opengl.png", ""],
                 ["static/gh.png", "https://github.com/rasha108"],
+                ["static/opengl.png", ""],
                 ["static/ig.png", "https://instagram.com/rasha108bick"],
+                ["static/opengl.png", ""],
                 ["static/vk.png", "https://vk.com/id252820782"],
+                ["static/opengl.png", ""],
             ];
 
             const links = document.createElement("div");
