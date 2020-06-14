@@ -71,12 +71,12 @@ helloRender.then(() => {
         aboutRender.then(() => {
 
             const linksMapping = [
+                ["static/opengl.png", "https://vk.com/id252820782"],
                 ["static/tg.png", "https://t.me/rasha108bick"],
                 ["static/ln.png", "www.linkedin.com/in/rasha108"],
                 ["static/gh.png", "https://github.com/rasha108"],
                 ["static/ig.png", "https://instagram.com/rasha108bick"],
                 ["static/vk.png", "https://vk.com/id252820782"],
-                ["static/opengl.png", "https://vk.com/id252820782"],
             ];
 
             const links = document.createElement("div");
