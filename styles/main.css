@@ -10,7 +10,7 @@ body {
     padding: 0 0 0 10pt;
     display: flex;
     user-select: none;
-    color: red;
+    color: beige;
     flex-direction: column;
     background-color: black;
     font-family: 'HelveticaNeue-Bold';
@@ -18,7 +18,7 @@ body {
 
 a {
     font-family: 'HelveticaNeue-Bold';
-    color: white;
+    color: beige;
     text-decoration: none;
 }
 
