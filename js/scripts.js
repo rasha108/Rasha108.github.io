@@ -1,4 +1,4 @@
-const TYPING_SPEED = 60
+const TYPING_SPEED = 65
 
 function randomInRange(start, end) {
     return Math.floor(Math.random() * (end - start + 1) + start);
@@ -27,7 +27,7 @@ document.body.appendChild(hello);
 
 let helloRender = new Promise((resolve, _) => {
     renderTypeWriterText(
-        text = "Hi all, i'm Rashka",
+        text = "Hi, i'm Rashka",
         selector = ".hello",
         speed = TYPING_SPEED,
         resolve,
