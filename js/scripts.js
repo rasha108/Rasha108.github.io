@@ -1,4 +1,4 @@
-const TYPING_SPEED = 75
+const TYPING_SPEED = 60
 
 function randomInRange(start, end) {
     return Math.floor(Math.random() * (end - start + 1) + start);
@@ -76,6 +76,7 @@ helloRender.then(() => {
                 ["static/gh.png", "https://github.com/rasha108"],
                 ["static/ig.png", "https://instagram.com/rasha108bick"],
                 ["static/vk.png", "https://vk.com/id252820782"],
+                ["static/opengl.png", ""],
             ];
 
             const links = document.createElement("div");
