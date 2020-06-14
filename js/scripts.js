@@ -104,13 +104,13 @@ helloRender.then(() => {
             linksRender.then(() => {
                 const writeMe = document.createElement("a");
                 writeMe.className = "write-me";
-                writeMe.href = "rashid1995bik@gmail.com";
+                writeMe.href = "https://mail.google.com/rashid1995bik@gmail.com";
                 document.body.appendChild(writeMe);
 
                 setTimeout(
                     renderTypeWriterText,
                     speed = 300,
-                    text = "have some thoughts?",
+                    text = "questions?",
                     selector = ".write-me",
                     speed = TYPING_SPEED,
                     () => { },
