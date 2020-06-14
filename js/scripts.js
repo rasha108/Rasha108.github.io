@@ -76,7 +76,7 @@ helloRender.then(() => {
                 ["static/gh.png", "https://github.com/rasha108"],
                 ["static/ig.png", "https://instagram.com/rasha108bick"],
                 ["static/vk.png", "https://vk.com/id252820782"],
-                ["static/opengl.png", ""],
+                ["static/opengl.png", "https://vk.com/id252820782"],
             ];
 
             const links = document.createElement("div");
