@@ -61,7 +61,7 @@ helloRender.then(() => {
             setTimeout(
                 renderTypeWriterText,
                 speed = 500,
-                text = "find me here",
+                text = "my contacts",
                 selector = ".about-me",
                 speed = TYPING_SPEED,
                 resolve,
@@ -72,7 +72,7 @@ helloRender.then(() => {
 
             const linksMapping = [
                 ["static/tg.png", "https://t.me/rasha108bick"],
-                ["static/ln.png", "https://www.linkedin.com/in/gabolaev"],
+                ["static/ln.png", "www.linkedin.com/in/rasha108"],
                 ["static/gh.png", "https://github.com/rasha108"],
                 ["static/ig.png", "https://instagram.com/rasha108bick"],
                 ["static/vk.png", "https://vk.com/id252820782"],
